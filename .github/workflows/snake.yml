@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos os dias à meia-noite
+    - cron: "0 0 * * *" # roda todos os dias à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
       - name: Upload GitHub Pages artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: snake-graph
           path: dist/github-contribution-grid-snake.svg
