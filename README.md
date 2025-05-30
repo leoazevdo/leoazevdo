@@ -1,3 +1,4 @@
-### 🐍 Snake eating my contributions
+🐍 
 
-![snake gif](https://github.com/leoazevdo/leoazevdo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/leoazevdo/leoazevdo/output/github-contribution-grid-snake.svg)
+
