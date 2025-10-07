@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Leonardo Azevedo!
 
 🎯 Migrando da área de Redes e Manutenção para o Desenvolvimento Web.  
-💻 Estudante de Desenvolvimento Fullstack pela Geração Tech.  
+💻 Formação em Desenvolvimento Fullstack pela Geração Tech. 2.0  
 🚀 Apaixonado por tecnologia, resolver problemas e criar soluções úteis.  
 📍 Fortaleza - CE
 
@@ -18,8 +18,11 @@
 ---
 
 ### 📌 Projetos em destaque:
-- [🛒 Loja Digital - Projeto Fullstack]()  
+- [🛒 Loja Digital - Projeto Fullstack](https://github.com/leoazevdo/Digital_store)  
   Aplicação web simulando uma loja online com React e Node.js.
+
+ - [🛒 Sistema Biblioteca - OpenSource](https://github.com/leoazevdo/biblioteca_piamarta.git)  
+  Adaptação de Front-end e Back End do sistema Bibliotecário para o Colégio Piamarta Montese.
 
 
 ---
