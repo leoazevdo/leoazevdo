@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Leonardo Azevedo!
 
-🎯 Migrando da área de Redes e Manutenção para o Desenvolvimento Web.  
-💻 Formação em Desenvolvimento Fullstack pela Geração Tech. 2.0  
 🚀 Apaixonado por tecnologia, resolver problemas e criar soluções úteis.  
+💻 Formação em Desenvolvimento Fullstack pela Geração Tech. 2.0  
 📍 Fortaleza - CE
 
 ---
